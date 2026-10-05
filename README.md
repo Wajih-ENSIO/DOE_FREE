@@ -1,5 +1,6 @@
 Next updates : 
 
+> Changer Logo 
 >Condition : Si Groupe = Vue Générale ; inserer premiere page + dimensions = H 16.75 et L 11.14 cm
 >Revoir pq 001s ou sinon supprimer les 00X à la fin.
 >Cahier de Recette => Trame sur docx ou pdf. Trouver solution.
@@ -15,3 +16,5 @@ Usage :
 > Choisir la largeur/Hauteur
 > Modifier la trame (Déplacer les groupes ; Déplacer les photos ; Suppr les photos )
 > Générer le DOE en Docx.
+
+
